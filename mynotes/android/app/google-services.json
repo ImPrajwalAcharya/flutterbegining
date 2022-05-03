@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "536008184497",
+    "project_id": "helo-my-app-mynote",
+    "storage_bucket": "helo-my-app-mynote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536008184497:android:ba19bf54fc7d0d58c80890",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536008184497-3mpce3jt8mfb03crvo3jn56s917rblkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJAEU7YHf62yfW51qN2Mz4jHQkiLh1OmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536008184497-3mpce3jt8mfb03crvo3jn56s917rblkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536008184497-n5c4h0f1ef3ndp4315igu4rjdh7tkv0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
